@@ -59,8 +59,8 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/adam-dennis-uos"
     - label: "ResearchGate"
-      icon: "fab fa-fw fa-graduation-cap"
-      url: "https://www.linkedin.com/in/adam-dennis-uos"
+      icon: "fa fa-graduation-cap"
+      url: "https://www.researchgate.net/profile/Adam-Dennis"
 
 footer:
   links:
