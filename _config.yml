@@ -62,7 +62,7 @@ author:
       icon: "fa fa-graduation-cap"
       url: "https://www.researchgate.net/profile/Adam-Dennis"
     - label: "University"
-      icon: "fa fa-institution"
+      icon: "fa fa-university"
       url: "https://www.sheffield.ac.uk/civil/people/research/adam-dennis" 
 
 footer:
@@ -83,7 +83,7 @@ footer:
       icon: "fa fa-graduation-cap"
       url: "https://www.researchgate.net/profile/Adam-Dennis"
     - label: "University"
-      icon: "fa fa-institution"
+      icon: "fa fa-university"
       url: "https://www.sheffield.ac.uk/civil/people/research/adam-dennis" 
 
 defaults:
