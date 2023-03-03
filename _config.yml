@@ -5,7 +5,7 @@ description: >-
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 github_username: adamdennis98
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -60,6 +60,7 @@ author:
       url: "https://www.linkedin.com/in/adam-dennis-uos"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-graduation-cap"
+      url: "https://www.linkedin.com/in/adam-dennis-uos"
 
 footer:
   links:
