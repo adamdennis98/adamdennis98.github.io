@@ -58,6 +58,8 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/adam-dennis-uos"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-graduation-cap"
 
 footer:
   links:
