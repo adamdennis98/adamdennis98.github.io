@@ -2,7 +2,7 @@ main:
   - title: "About me"
     url: /about_me/
   - title: "Projects"
-    url: /projects/ 
+    url: /nflanalysis/ 
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
