@@ -1,4 +1,4 @@
-title: Adam Dennis
+title: Home
 email:
 description: >-
   Write an awesome description for your new site here. You can edit this
@@ -80,7 +80,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
+      header:
+      image: /assets/images/night_ellmau_resized.jpg      
       author_profile: true
       read_time: true
       comments: true
