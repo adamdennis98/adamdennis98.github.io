@@ -1,9 +1,7 @@
 title: Home
 email:
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Adam Dennis - PhD researcher in Blast and Impact Engineering at the University of Sheffield.
 github_username: adamdennis98
 minimal_mistakes_skin: dark
 repository: adamdennis98/adamdennis98.github.io
@@ -12,6 +10,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -81,14 +80,13 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
-      header:
-      image: /assets/images/night_ellmau_resized.jpg      
+      layout: single  
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
+      
   # _pages
   - scope:
       path: "_pages"
@@ -97,9 +95,23 @@ defaults:
       layout: single
       author_profile: true
 
-#category_archive:
-#  type: liquid
-#  path: /categories/
-#tag_archive:
-#  type: liquid
-#  path: /tags/
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
