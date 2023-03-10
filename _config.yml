@@ -1,4 +1,4 @@
-title: Home
+title: Adam Dennis
 email:
 description: >-
   Adam Dennis - PhD researcher in Blast and Impact Engineering at the University of Sheffield.
@@ -82,7 +82,7 @@ defaults:
     values:
       layout: single  
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       share: true
       related: false
@@ -101,8 +101,10 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
+      comments: false
       share: true
+      related: false
 
 category_archive:
   type: liquid

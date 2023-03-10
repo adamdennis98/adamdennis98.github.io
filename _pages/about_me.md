@@ -5,7 +5,7 @@ permalink: /about_me/
 header:
   overlay_image: /assets/images/harrison-qi-qmi2FHpXjuc-unsplash.jpg
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.5"
   caption: "Photo credit: [**unsplash.com/@harix**](https://unsplash.com/@harix)"
 
 classes: wide
