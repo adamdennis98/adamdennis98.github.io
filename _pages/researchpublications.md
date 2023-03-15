@@ -1,9 +1,12 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /research/
+title: "Research and publications"
 ---
 
-Publications related to my professional research in Blast and Impact Engineering:
+## Research introduction:
+Temporary text.
+
+## Publications related to my professional research in Blast and Impact Engineering:
 
 **Dennis, Adam A**, Jordan J Pannell, Danny J Smyl, and Sam E Rigby. 2021. "Prediction of Blast Loading in an Internal Environment Using Artificial Neural Networks." International Journal of Protective Structures 12 (3): 287-314. [https://doi.org/10.1177/2041419620970570](https://doi.org/10.1177/2041419620970570).
  

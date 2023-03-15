@@ -1,9 +1,9 @@
 main:
   - title: "About me"
     url: /about_me/
-  - title: "Projects"
-    url: /nflanalysis/ 
-  - title: "Publications"
-    url: /publications/
+  - title: "Research and publications"
+    url: /research/
   - title: "Teaching"
     url: /teaching/
+  - title: "Projects"
+    url: /nflanalysis/ 

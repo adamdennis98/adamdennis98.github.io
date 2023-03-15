@@ -6,6 +6,8 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 
+author_profile: false
+
 header:
   overlay_image: /assets/images/riley-mccullough-m5pz9D6MfUk-unsplash.jpg
   overlay_color: "#000"
@@ -14,4 +16,9 @@ header:
 
 excerpt: "As an avid american football fan and supporter of the Atlanta Falcons, this page will host some statistical analysis that has helped me manage a range fantasy football teams in leagues that I compete in with friends from across the UK. Stay tuned for updates on how I compiled my dataset, analysed relevant stats and used this to make team decisions!"
 
+#sidebar:
+#- title: "Content coming soon!"
+
 ---
+
+Content coming soon!
