@@ -1,10 +1,17 @@
 ---
 permalink: /research/
 title: "Research and publications"
+
+header:
+  overlay_image: /assets/images/ashley-owen-qIru5hJhpCE-unsplash-thin.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  caption: "Photo credit: [**unsplash.com/@ashleyamosowen**](https://unsplash.com/@ashleyamosowen)"
+
+excerpt: ""
 ---
 
-[comment]: <> (## Research introduction:)
-[comment]: <> (#Temporary text.)
+Before joining the Blast and Impact Dynamics research group to study for my PhD, I graduated from the University of Sheffield in 2020 with an MEng (Hons) degree in Civil Engineering. Under the supervision of Dr Sam Rigby, my current research is related to the development of machine learning tools that can be used for probabilistic assessments of blast loading in complex environments.
 
 ## Publications:
 

@@ -16,9 +16,7 @@ header:
 
 excerpt: "As an avid american football fan and supporter of the Atlanta Falcons, this page will host some statistical analysis that has helped me manage a range fantasy football teams in leagues that I compete in with friends from across the UK. Stay tuned for updates on how I compiled my dataset, analysed relevant stats and used this to make team decisions!"
 
-#sidebar:
-#- title: "Content coming soon!"
+sidebar:
+- text: "More content coming soon!"
 
 ---
-
-Content coming soon!

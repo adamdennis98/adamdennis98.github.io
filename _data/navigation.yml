@@ -3,7 +3,5 @@ main:
     url: /about_me/
   - title: "Research and publications"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Projects"
     url: /nflanalysis/ 

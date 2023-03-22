@@ -1,16 +1,16 @@
 ---
-title: "Home"
-layout: no_title_splash
+title: "Welcome!"
+layout: splash
 author_profile: false
 permalink: /
 
 header:
-  overlay_image: /assets/images/ashley-owen-qIru5hJhpCE-unsplash-thin.jpg
+  overlay_image: /assets/images/harrison-qi-qmi2FHpXjuc-unsplash.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
-  caption: "Photo credit: [**unsplash.com/@ashleyamosowen**](https://unsplash.com/@ashleyamosowen)"
+  caption: "Photo credit: [**unsplash.com/@harix**](https://unsplash.com/@harix)"
 
-excerpt: "Welcome to my website! On here you'll find out about my academic career, including my publications and teaching experience, alongside some data-focussed projects I've been working on!"
+excerpt: "Thanks for visting my website! On here you'll find out about my academic career alongside some data-focussed projects that I've been working on!"
 
 ---
 

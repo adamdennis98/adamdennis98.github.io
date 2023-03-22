@@ -1,16 +1,27 @@
 ---
 title: "About me"
-layout: splash
 permalink: /about_me/
+
 header:
-  overlay_image: /assets/images/harrison-qi-qmi2FHpXjuc-unsplash.jpg
+  overlay_image: /assets/images/dave-mullen-IrLcTKr0qlA-unsplash.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
-  caption: "Photo credit: [**unsplash.com/@harix**](https://unsplash.com/@harix)"
+  caption: "Photo credit: [**unsplash.com/@davemullenjnr**](https://unsplash.com/@davemullenjnr)"
 
-classes: wide
-
-excerpt: "Before joining the Blast and Impact Dynamics research group to study for my PhD, I graduated from the University of Sheffield in 2020 with an MEng (Hons) degree in Civil Engineering. Under the supervision of Dr Sam Rigby, my current research is related to the development of machine learning tools that can be used for probabilistic assessments of blast loading in complex environments."
+excerpt: ""
 ---
 
+I'm a PhD student at the University of Sheffield looking to develop my skills in coding by making this website. Below you'll find a summary of my skills and achievements, to the side you'll see some links to various profiles related to my work!
+
+## Key Skills:
+* Coding using Python and MATLAB.
+* Numerical analysis using APOLLO:BLastsimulator, Viper::Blast and LS-DYNA.
+* Version control through Github.
+* Drawing creation with AutoCAD.
+* Document processing and presentations using Microsoft Office and LaTeX.
+
+## Notable achievements
+* Fellow of the Higher Education Academy
+* Lead author of 2 international journal articles with 3 additional papers submitted for publication.
+* Awarded the Mappin Medal for the greatest distinction in Civil and Structural Engineering at the University of Sheffield.
 
