@@ -3,5 +3,5 @@ main:
     url: /about_me/
   - title: "Research and publications"
     url: /research/
-  - title: "Projects"
-    url: /nflanalysis/ 
+  #- title: "Projects"
+  #  url: /nflanalysis/ 
