@@ -15,7 +15,7 @@ I'm a PhD student at the University of Sheffield looking to develop my skills in
 
 ## Key Skills:
 * Coding using Python and MATLAB.
-* Numerical analysis using APOLLO:BLastsimulator, Viper::Blast and LS-DYNA.
+* Numerical analysis using APOLLO:Blastsimulator, Viper::Blast and LS-DYNA.
 * Version control through Github.
 * Drawing creation with AutoCAD.
 * Document processing and presentations using Microsoft Office and LaTeX.
