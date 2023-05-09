@@ -1,7 +1,7 @@
 main:
-  - title: "About me"
-    url: /about_me/
-  - title: "Research and publications"
-    url: /research/
+  #- title: "About me"
+  #  url: /about_me/
+  #- title: "Research and publications"
+  #  url: /research/
   #- title: "Projects"
   #  url: /nflanalysis/ 
