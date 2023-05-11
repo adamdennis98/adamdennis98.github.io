@@ -5,7 +5,9 @@ description: >-
 github_username: adamdennis98
 minimal_mistakes_skin: dark
 repository: adamdennis98/adamdennis98.github.io
-search: true
+#search: true
+
+masthead_title: "Profile"
 
 # Build settings
 markdown: kramdown
