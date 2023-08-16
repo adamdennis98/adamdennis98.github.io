@@ -14,7 +14,7 @@ excerpt: ""
 
 ## About me:
 * Member of the University of Sheffield Blast and Impact Dynamics research group, Supervised by Dr Sam Rigby.
-* Current research focussed on the development of Machine Learning tools that can be used for probabilistic assessments of blast loading in complex environments.
+* Current research focus on the development of Machine Learning tools that can be used for probabilistic assessments of blast loading in complex environments.
 * Graduated from the University of Sheffield in 2020 with an MEng (Hons) degree in Civil Engineering.
 
 ## Publications:
