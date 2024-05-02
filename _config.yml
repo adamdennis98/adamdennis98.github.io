@@ -45,7 +45,7 @@ plugins:
 
 author:
   name   : "Adam Dennis"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.JPG"
   bio    : "Research Associate in Blast Engineering."
   links:
     - label: "GitHub"
